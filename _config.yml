@@ -23,8 +23,8 @@ email: sara@jobsolutely.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for the Jobsolutely construction recruitment platform, covering industry issues, recruitment best practices
   and updates about our systems.
-baseurl: "https://jobsolutely.github.io/blog.co/"
-url: "https://jobsolutely.github.io/blog.co/"
+baseurl: "/blog.co/"
+url: "https://jobsolutely.github.io"
 twitter_username: jobsolutely
 github_username:  jobsolutely
 
